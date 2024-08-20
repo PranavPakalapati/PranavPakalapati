@@ -28,7 +28,6 @@ print(f"Take a Look at my skills {me.my_skills()}")
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
-  
     <a href="https://www.linkedin.com/in/pranav-pakalapati/">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
