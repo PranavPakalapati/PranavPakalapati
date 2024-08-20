@@ -40,19 +40,6 @@ print(f"Take a Look at my skills {me.my_skills()}")
 
 <hr>
 
-<!-- Description about me -->
-<h2 align="center"> 🤔 About me 👨‍💻 </h2>
-
-
-Eyyyy!!! <br />
-- I am <b>Satya Sasi Vatsal</b> better known as 'Sasi'🕵🏼‍♂️ <br />
-  - A Self- motivated, Inquisitive, energetic computer science engineering student skilled in leadership, with a strong foundation in math, logic, and cross-platform coding with proven and tested engineering, management, marketing skills Seeking a challenging role at a reputed organization to utilize my skills that can contribute to the company’s growth as well as enhance my knowledge by exploring new things. <br />
-- I am from <strong>India</strong><br />
-- I'm a guy who love to develop new things 🖥️ <br />
-- So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-- If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
-- Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
-<br/><br/> 
 
 ### 🧐 More About Me:
 <table style="border: none;">
@@ -69,19 +56,16 @@ Eyyyy!!! <br />
           🌱 I’m currently learning Django  
         </li>
         <li> 
-          👨🏻‍💻 Most of my projects are available on <a style='text-decoration:none;color:red' target='_blank' href="https://github.com/sasivatsal7122?tab=repositories">GitHub</a>
+          👨🏻‍💻 Most of my projects are available on <a style='text-decoration:none;color:red' target='_blank' href="https://github.com/PranavPakalapati?tab=repositories">GitHub</a>
         </li>
         <li>
           💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
         </li>
         <li>
-          📫 Feel free to contact me on <a href="https://www.linkedin.com/in/sasi-vatsal-606195215/">LinkedIn</a>
+          📫 Feel free to contact me on <a href="https://www.linkedin.com/in/pranav-pakalapati/">LinkedIn</a>
         </li>
         <li>
           🧠 I'm learning Machine Learning and Data Science
-        </li>
-        <li>
-          📝 Checkout my <a href="https://sasivatsal.herokuapp.com/">Page</a>
         </li>
     </td>
     <td style="border: none;">
