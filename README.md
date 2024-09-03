@@ -3,7 +3,7 @@
 class Fourth_yr_CSE_Student:
 
     def __init__(self):
-        self.name = "Pranav Pakalapati"
+        self.name = "Pranav Pakalapati" 
         self.role = "Py/Ai Dev"
         self.hobbies = ['sleeping','coding','eating']
 
