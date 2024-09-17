@@ -58,7 +58,7 @@ print(f"Take a Look at my skills {me.my_skills()}")
           👨🏻‍💻 Most of my projects are available on <a style='text-decoration:none;color:red' target='_blank' href="https://github.com/PranavPakalapati?tab=repositories">GitHub</a>
         </li>
         <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+          💬 Ask me about anything tech related, I am happy to help (if you have questions with ML/AI you can ask me🐧);
         </li>
         <li>
           📫 Feel free to contact me on <a href="https://www.linkedin.com/in/pranav-pakalapati/">LinkedIn</a>
