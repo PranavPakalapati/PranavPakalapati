@@ -11,7 +11,7 @@ class Fourth_yr_CSE_Student:
         print("Thanks for dropping by, hope you find some of my work interesting.")
         
     def my_skills(self):
-        my_skills = {  
+        my_skills = { 
         'languages': ['Python','C++','C'],
         'Frameworks' : ['Tensorflow','Django','R'],
         'Python Library' : ['numpy', 'opencv', 'pandas', 'glob', 'requests', 'PIL'],
